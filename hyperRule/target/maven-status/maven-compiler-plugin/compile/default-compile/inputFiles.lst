@@ -1,0 +1,12 @@
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperRule/HyperRuleVisitorImpl.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperRule/HyperRuleException.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperBase/HyperRuleParser.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperWrapper/Manage.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperRule/HyperRuleParameterError.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperBase/HyperRuleLexer.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperBase/HyperRuleBaseVisitor.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperRule/HyperRuleBailLexer.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperRule/HyperRuleSyntaxError.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperBase/HyperRuleVisitor.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperWrapper/HyperRuleStringWrapper.java
+/Users/mugbya/git/gitee/HyperRuleLanguage-java/hyperRule/src/main/java/bgdt/hyperRule/HyperRuleValue.java
